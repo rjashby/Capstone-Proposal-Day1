@@ -40,3 +40,7 @@ Day 1 Research Notes for “commit” history:
 10:50 - 11:35: Research weighted graphs - following this tutorial: https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/
 
 11:35 - 12:10: Taking notes and continuing research. Added Notes.txt file.
+
+12:15 - 1:25: Add additional notes and try an object oriented approach
+
+1:30 - 2:00: Add vertices and edges to graphs. Add Graph.js file. 
