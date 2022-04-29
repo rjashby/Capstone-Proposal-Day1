@@ -34,3 +34,7 @@ Day 1 Research Notes for “commit” history:
 8:50 - 9:20: Coding along with airport graphing algorithm. Still in progress.
 
 9:30- 10:15: Research rest syntax in mapping graph. Graph works. 
+
+10:20 - 10:50: Break to eat
+
+10:50 - 11:35: Research weighted graphs - following this tutorial: https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/
