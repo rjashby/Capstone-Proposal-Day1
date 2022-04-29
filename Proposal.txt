@@ -29,7 +29,7 @@ Day 1 Research Notes for “commit” history:
 8:15:  Crash course in graph search algorithms.
  https://www.youtube.com/watch?v=cWNEl4HE2OE&ab_channel=Fireship
 
-8:40: Meet up with other students for better approach. Suggestion to use Python's map plotting library. 
+8:40: Meet up with other students for better approach. Suggestion to use Python's map plot lib. 
 
-
+8:50 - 9:20: Coding along with airport graphing algorithm. Still in progress.
 
