@@ -38,3 +38,5 @@ Day 1 Research Notes for “commit” history:
 10:20 - 10:50: Break to eat
 
 10:50 - 11:35: Research weighted graphs - following this tutorial: https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/
+
+11:35 - 12:10: Taking notes and continuing research. Added Notes.txt file.

@@ -1,0 +1,21 @@
+Graphs:
+
+Terms:
+Nodes (or vertices): Plot point, having zero or more adjacent elements.
+Edge: The connection between two nodes.
+Degree: is the number of edges connected to a vertex
+
+Types:
+Directed: only one pathway  e.g. IG followers go one way
+Directional: multidirectional e.g. Facebook, you are both friends with one another
+Weighted: edges themselves have meaning. There is data stored in the edge. e.g. the miles between two cities on a map
+Cycle: an edge which points back on itself. e.g. a flight that departed an airport, but had to turn around due to complications
+
+Breadth-first Search (BFS): is an algorithm for searching a tree data structure for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a queue, is needed to keep track of the child nodes that were encountered but not yet explored.
+
+Ex: https://en.wikipedia.org/wiki/Breadth-first_search#/media/File:Breadth-first-tree.svg
+
+Depth-first search (DFS): is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+
+Ex: https://en.wikipedia.org/wiki/Depth-first_search#/media/File:Depth-first-tree.svg
+
