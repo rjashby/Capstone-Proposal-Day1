@@ -30,3 +30,7 @@ Day 1 Research Notes for “commit” history:
 2:30 - 3:00: Finish reading: https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/#Breadth-first-search-BFS-Graph-search
     - Add Queue.js - implementation of a queue. 
     - still confused. taking a break
+
+3:10 - 3:40: Trying to add weight to graphs. https://javascript.plainenglish.io/from-zero-to-dijkstra-5c00c929ceab
+    - Also trying to implement Dijkstra’s shortest path algorithm :https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
