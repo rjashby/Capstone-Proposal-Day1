@@ -34,3 +34,6 @@ Day 1 Research Notes for “commit” history:
 3:10 - 3:40: Trying to add weight to graphs. https://javascript.plainenglish.io/from-zero-to-dijkstra-5c00c929ceab
     - Also trying to implement Dijkstra’s shortest path algorithm :https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
 
+3:40 - 4:00: Found github examples of Dijkstra’s shortest path algorithm in Python and JS. Attempting to implement test run on my own in console.
+    - See JavaScript: https://gist.github.com/Prottoy2938/66849e04b0bac459606059f5f9f3aa1a
+    - See Python: https://gist.github.com/oniani/d319bd7886e6ba01fac9ac74945cccdd 
