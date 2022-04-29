@@ -22,3 +22,6 @@ Day 1 Research Notes for “commit” history:
 
 1:30 - 2:00: Add vertices and edges to graphs. Add Graph.js file. 
 
+2:00 - 2:30: Implementing additional searches, but need to read up on queue data structures and methods: 
+      :https://www.javascripttutorial.net/javascript-queue/
+      :https://www.youtube.com/watch?v=LbAKOE5_Du4&ab_channel=dcode 
