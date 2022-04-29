@@ -24,4 +24,9 @@ Day 1 Research Notes for “commit” history:
 
 2:00 - 2:30: Implementing additional searches, but need to read up on queue data structures and methods: 
       :https://www.javascripttutorial.net/javascript-queue/
-      :https://www.youtube.com/watch?v=LbAKOE5_Du4&ab_channel=dcode 
+      :https://www.youtube.com/watch?v=LbAKOE5_Du4&ab_channel=dcode
+      : https://www.youtube.com/watch?v=yKhJHsW0Zm4&ab_channel=DevSage
+
+2:30 - 3:00: Finish reading: https://adrianmejia.com/data-structures-for-beginners-graphs-time-complexity-tutorial/#Breadth-first-search-BFS-Graph-search
+    - Add Queue.js - implementation of a queue. 
+    - still confused. taking a break
