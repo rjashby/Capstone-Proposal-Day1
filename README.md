@@ -43,3 +43,7 @@ Day 1 Research Notes for “commit” history:
     - Open Street Map: https://www.openstreetmap.org/search?query=lewisberry%2C%20pa#map=17/40.10662/-76.92534 
 
 4:32: Realizing in this exact moment that my entire project will not work because I need a 3D weight graph to account for both depth and distance. Kill me. 
+
+4:49: Attempted to follow along with this video on how google earth works: https://www.youtube.com/watch?v=-qo8L5GmKO0&t=16s&ab_channel=GoogleEarth
+  - I believe Fatmap has all the data I need, but it's a consumer product, and even if I had some sort of license to work with their IP, it'd take me weeks to get a working understanding of how it all pieces together. 
+  - All around bummer of a day.  
