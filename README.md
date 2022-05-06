@@ -70,3 +70,5 @@ Day 1 Research Notes for “commit” history:
   1:17: Back from lunch and following this tutorial on creating apps with Tailwind CSS - https://www.youtube.com/watch?v=dFgzHOX84xQ&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&start_radio=1&rv=dFgzHOX84xQ&t=16&ab_channel=TraversyMedia
 
   2:08: Continue to research, code along with tutorials, and update node.
+  
+  3:01: Code along with react tutorials.

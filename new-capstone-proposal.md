@@ -16,7 +16,9 @@ _React or React Native App._
 
 2) Set up a front-end, backend, and api structure. 
 
-3) Style the site to look appropriate using Tailwind CSS. 
+3) Style the site to look appropriate using Tailwind CSS.
+
+4) Log-in authorization.
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next?
 
