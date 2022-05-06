@@ -63,4 +63,4 @@ Day 1 Research Notes for “commit” history:
 
   10:45: All of the resources for this project I could utilize need new languages that I don't have time to learn. Feeling dejected for sure. 
 
-  11:50: Coded along with https://www.youtube.com/watch?v=re3OIOr9dJI&ab_channel=PedroTech, making a CRUD app in React using MySql, Express, Node, and Axios. 
+  11:50: Coded along with https://www.youtube.com/watch?v=re3OIOr9dJI&ab_channel=PedroTech, making a CRUD app in React using MySql, Express, Node, and Axios. Starting a new github and VS Code file now for the afternoon's work. Stopping work on graphing trail map.
