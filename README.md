@@ -76,3 +76,5 @@ Day 1 Research Notes for “commit” history:
   3:40: Continue React research and Figma tutorial: https://www.youtube.com/watch?v=ybc2gkvjMDs&ab_channel=Scrimba 
 
   4:15: Continue along with React Scrimba tutorial.
+
+  4:45: Continue research and tutorial. Also learning additional CSS. 
