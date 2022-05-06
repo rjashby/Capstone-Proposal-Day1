@@ -84,7 +84,7 @@ class WeightedGraph {
   }
   addEdge(vertex1, vertex2, weight) {
     this.adjacencyList[vertex1].push({ node: vertex2, weight });
-    this.adjacencyList[vertex2].push({ node: vertex1, weight });
+    // this.adjacencyList[vertex2].push({ node: vertex1, weight });
   }
   Dijkstra(start, finish) {
     const nodes = new PriorityQueue();
@@ -192,12 +192,16 @@ graph.addEdge("MINTOP", "LOWLAFTOP", 5);
 graph.addEdge("MINTOP", "RECBOT", 10);
 graph.addEdge("UPLAFTOP", "UPLAFBOT", 6);
 // graph.addEdge("UPLAFTOP", "MINTOP", 1);
-graph.addEdge("UPLAFBOT", "LOWLAFTOP", 1);
-graph.addEdge("LOWLAFTOP", "LOWLAFBOT", );
+graph.addEdge("UPLAFBOT", "LOWLAFTOP", 2);
+graph.addEdge("LOWLAFTOP", "LOWLAFBOT", 5);
 graph.addEdge("LOWLAFTOP", "UPLAFBOT", 6);
-graph.addEdge("C", "F", 4); // MAP REC, EX, EX LIFT. SUS
-graph.addEdge("D", "E", 3);
-graph.addEdge("D", "F", 1);
-graph.addEdge("E", "F", 1);
+graph.addEdge("EXTOP", "EXBOT", 7); // MAP REC, EX, EX LIFT. SUS
+graph.addEdge("EXTOP", "RECTOP", 2);
+graph.addEdge("RECTOP", "RECBOT", 6);
+graph.addEdge("RECTOP", "SUSTOP", 2);
+graph.addEdge("SUSTOP", "EXBOT", 8);
+graph.addEdge("EXBOT", "EXLIFTBOT", 2);
+graph.addEdge("EXLIFTBOT", "EXLIFTTOP", 6);
+graph.addEdge("EXLIFTTOP", "EXTOP", 1);
 
 console.log(graph.Dijkstra("A", "E"));
