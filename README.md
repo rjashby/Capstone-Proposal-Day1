@@ -61,4 +61,4 @@ Day 1 Research Notes for “commit” history:
    - https://openskimap.org/?obj=37e10088193d64bc74ae7a0f8a705f1e64707085#15.52/40.107039/-76.925925
    - https://www.mapbox.com/blog/build-a-ski-trail-map-using-openstreetmap-and-mts 
 
-  10:45: All of the resources for this project I could utilize need. 
+  10:45: All of the resources for this project I could utilize need new languages that I don't have time to learn. Feeling dejected for sure. 

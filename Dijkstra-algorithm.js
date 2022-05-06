@@ -204,4 +204,4 @@ graph.addEdge("EXBOT", "EXLIFTBOT", 2);
 graph.addEdge("EXLIFTBOT", "EXLIFTTOP", 6);
 graph.addEdge("EXLIFTTOP", "EXTOP", 1);
 
-console.log(graph.Dijkstra("MINLIFTBOT", "EXLIFTBOT"));
+console.log(graph.Dijkstra("MINLIFTBOT", "EXLIFTBOT"));  
