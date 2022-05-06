@@ -49,7 +49,7 @@ Day 1 Research Notes for “commit” history:
   - All around bummer of a day.  
 
 
-  DAY 2: Friday, May 6, 2022
+  DAY 2: Friday, May 6, 2022 
 
   8:26: Update sample graph, nodes, edges on Dijkstra.js - Start of Day 2. Last ditch attempt to see if the algorithm works before scraping it.
 
