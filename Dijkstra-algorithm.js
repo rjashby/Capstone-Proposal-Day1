@@ -159,3 +159,36 @@ graph.addEdge("D", "F", 1);
 graph.addEdge("E", "F", 1);
 
 console.log(graph.Dijkstra("A", "E"));
+
+//LIFT ATTEMPT
+
+var graph = new WeightedGraph();
+graph.addVertex("MINLIFTBOT");
+graph.addVertex("MINLIFTTOP");
+graph.addVertex("EXHIBITIONTOP");
+graph.addVertex("EXHIBITIONBOT");
+graph.addVertex("RECRUITTOP");
+graph.addVertex("RECRUITBOT");
+graph.addVertex("SUSTOP");
+graph.addVertex("SUSBOT");
+graph.addVertex("MINTOP");
+graph.addVertex("MINBOT");
+graph.addVertex("EXLIFTTOP");
+graph.addVertex("EXLIFTBOT");
+graph.addVertex("LOWLAFTOP");
+graph.addVertex("LOWLAFBOT");
+graph.addVertex("UPLAFTOP");
+graph.addVertex("UPLAFBOT");
+graph.addVertex("");
+graph.addVertex("");
+
+graph.addEdge("A", "B", 4);
+graph.addEdge("A", "C", 2);
+graph.addEdge("B", "E", 3);
+graph.addEdge("C", "D", 2);
+graph.addEdge("C", "F", 4);
+graph.addEdge("D", "E", 3);
+graph.addEdge("D", "F", 1);
+graph.addEdge("E", "F", 1);
+
+console.log(graph.Dijkstra("A", "E"));
