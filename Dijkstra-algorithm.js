@@ -191,11 +191,10 @@ graph.addEdge("MINTOP", "RECTOP", 3);
 graph.addEdge("MINTOP", "LOWLAFTOP", 5);
 graph.addEdge("MINTOP", "RECBOT", 10);
 graph.addEdge("UPLAFTOP", "UPLAFBOT", 6);
-// graph.addEdge("UPLAFTOP", "MINTOP", 1);
 graph.addEdge("UPLAFBOT", "LOWLAFTOP", 2);
 graph.addEdge("LOWLAFTOP", "LOWLAFBOT", 5);
 graph.addEdge("LOWLAFTOP", "UPLAFBOT", 6);
-graph.addEdge("EXTOP", "EXBOT", 7); // MAP REC, EX, EX LIFT. SUS
+graph.addEdge("EXTOP", "EXBOT", 7);
 graph.addEdge("EXTOP", "RECTOP", 2);
 graph.addEdge("EXTOP", "EXLIFTTOP", 1);
 graph.addEdge("RECTOP", "RECBOT", 6);
@@ -205,4 +204,4 @@ graph.addEdge("EXBOT", "EXLIFTBOT", 2);
 graph.addEdge("EXLIFTBOT", "EXLIFTTOP", 6);
 graph.addEdge("EXLIFTTOP", "EXTOP", 1);
 
-console.log(graph.Dijkstra("A", "E"));
+console.log(graph.Dijkstra("MINLIFTBOT", "EXLIFTBOT"));

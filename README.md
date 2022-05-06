@@ -56,3 +56,9 @@ Day 1 Research Notes for “commit” history:
   8:52: Finished graph. Attempting to get it to work but the algorithm is two-way at the moment. Need to modify to one way.
 
   9:20: Graph now works properly. Success! However, I have no idea how to do the next part of the assignment, which is putting the graph over an actual map. 
+
+  9:55: Discovered plenty of tool to help me, but they're written in Typescript and Swift. https://www.mapbox.com/maps 
+   - https://openskimap.org/?obj=37e10088193d64bc74ae7a0f8a705f1e64707085#15.52/40.107039/-76.925925
+   - https://www.mapbox.com/blog/build-a-ski-trail-map-using-openstreetmap-and-mts 
+
+   
