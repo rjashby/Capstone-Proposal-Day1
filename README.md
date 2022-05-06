@@ -68,3 +68,5 @@ Day 1 Research Notes for “commit” history:
   12:30: Re-write proposal for different app. It's titled "new-capstone-proposal" in this file, but I will be starting an entirely new project in a different Repo this weekend. Today will be primarily additional research into how to go about writing the new application.
 
   1:17: Back from lunch and following this tutorial on creating apps with Tailwind CSS - https://www.youtube.com/watch?v=dFgzHOX84xQ&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&start_radio=1&rv=dFgzHOX84xQ&t=16&ab_channel=TraversyMedia
+
+  2:08: Continue to research, code along with tutorials, and update node.
