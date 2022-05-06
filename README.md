@@ -62,3 +62,5 @@ Day 1 Research Notes for “commit” history:
    - https://www.mapbox.com/blog/build-a-ski-trail-map-using-openstreetmap-and-mts 
 
   10:45: All of the resources for this project I could utilize need new languages that I don't have time to learn. Feeling dejected for sure. 
+
+  11:50: Coded along with https://www.youtube.com/watch?v=re3OIOr9dJI&ab_channel=PedroTech, making a CRUD app in React using MySql, Express, Node, and Axios. 
