@@ -74,3 +74,5 @@ Day 1 Research Notes for “commit” history:
   3:01: Code along with react tutorials: https://scrimba.com/learn/learnreact/quick-mental-outline-of-project-co25b4851980efb41f5ae45cc
 
   3:40: Continue React research and Figma tutorial: https://www.youtube.com/watch?v=ybc2gkvjMDs&ab_channel=Scrimba 
+
+  4:15: Continue along with React Scrimba tutorial.

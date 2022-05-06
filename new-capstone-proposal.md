@@ -22,7 +22,11 @@ _React or React Native App._
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next?
 
-_I’d really like to make this mobile._
+1) I’d really like to make this mobile.
+
+2) With mobility, I want users to be able to write and read reviews on the go.
+
+3) I also want users to be able to look for the best sandwiches around them. 
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
