@@ -47,3 +47,10 @@ Day 1 Research Notes for “commit” history:
 4:49: Attempted to follow along with this video on how google earth works: https://www.youtube.com/watch?v=-qo8L5GmKO0&t=16s&ab_channel=GoogleEarth
   - I believe Fatmap has all the data I need, but it's a consumer product, and even if I had some sort of license to work with their IP, it'd take me weeks to get a working understanding of how it all pieces together. 
   - All around bummer of a day.  
+
+
+  DAY 2: Friday, May 6, 2022
+
+  8:26: Update sample graph, nodes, edges on Dijkstra.js - Start of Day 2. Last ditch attempt to see if the algorithm works before scraping it.
+
+  
