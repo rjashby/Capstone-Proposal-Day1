@@ -197,6 +197,7 @@ graph.addEdge("LOWLAFTOP", "LOWLAFBOT", 5);
 graph.addEdge("LOWLAFTOP", "UPLAFBOT", 6);
 graph.addEdge("EXTOP", "EXBOT", 7); // MAP REC, EX, EX LIFT. SUS
 graph.addEdge("EXTOP", "RECTOP", 2);
+graph.addEdge("EXTOP", "EXLIFTTOP", 1);
 graph.addEdge("RECTOP", "RECBOT", 6);
 graph.addEdge("RECTOP", "SUSTOP", 2);
 graph.addEdge("SUSTOP", "EXBOT", 8);

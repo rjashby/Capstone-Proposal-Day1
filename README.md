@@ -54,3 +54,5 @@ Day 1 Research Notes for “commit” history:
   8:26: Update sample graph, nodes, edges on Dijkstra.js - Start of Day 2. Last ditch attempt to see if the algorithm works before scraping it.
 
   8:52: Finished graph. Attempting to get it to work but the algorithm is two-way at the moment. Need to modify to one way.
+
+  9:20: Graph now works properly. Success! However, I have no idea how to do the next part of the assignment, which is putting the graph over an actual map. 
