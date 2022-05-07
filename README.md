@@ -78,3 +78,5 @@ Day 1 Research Notes for “commit” history:
   4:15: Continue along with React Scrimba tutorial.
 
   4:45: Continue research and tutorial. Also learning additional CSS. 
+
+  5:50: Coding business card React project with CSS: https://scrimba.com/learn/learnreact/section-1-solo-project-coce646e88eea46f91af43ca4 
